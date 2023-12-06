@@ -10,9 +10,9 @@ Option A -- Strings and functional programming in R:
 
 # Introduction:
 
-1.  `assignment_b04.Rmd` contains the source code of the answer for Option A: Exercise 1 and Exercise 2.
-2.  `assignment_b04.md` is generated from `assignment_b04.Rmd`, which is more readable on GitHub.
-3.  `assignment_b04_files` contains auto-generated files.
+1.  `Assignment-B4.Rmd` contains the source code of the answer for Option A: Exercise 1 and Exercise 2.
+2.  `Assignment-B4.md` is generated from `Assignment-B4.Rmd`, which is more readable on GitHub.
+3.  `Assignment-B4_files` contains auto-generated files.
 
 ## New rules for Exercise 2:
 
