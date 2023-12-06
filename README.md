@@ -19,9 +19,9 @@ Option A -- Strings and functional programming in R:
 The rearrangement and addition rules of my version of pig Latin are as follows:
 
 1. Rearrangement:
-                  - Locate the first occurrence of one Han Letter.
-                  - Starting from this point, we extract the segment extending to the word's end.
-                  - Finally, we reverse this extracted segment and prepend it to the beginning of the word, effectively repositioning it.
+    -   Locate the first occurrence of one Han Letter.
+    -   Starting from this point, we extract the segment extending to the word's end.
+    -   Finally, we reverse this extracted segment and prepend it to the beginning of the word, effectively repositioning it.
 
 2. Addition:
-                  - Append the word "HAN" to the end of the reversed segment. 
+    -   Append the word "HAN" to the end of the reversed segment. 
